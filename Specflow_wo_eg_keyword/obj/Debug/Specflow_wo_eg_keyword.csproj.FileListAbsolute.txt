@@ -1,0 +1,1 @@
+C:\Users\Monicca2502\Source\Repos\OpenQA\Specflow_wo_eg_keyword\obj\Debug\Specflow_wo_eg_keyword.csprojResolveAssemblyReference.cache

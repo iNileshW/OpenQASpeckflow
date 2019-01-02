@@ -1,0 +1,11 @@
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\OpenQA.dll
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\OpenQA.pdb
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\WebDriver.dll
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\WebDriver.xml
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\obj\Debug\OpenQA.csprojResolveAssemblyReference.cache
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\obj\Debug\OpenQA.dll
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\obj\Debug\OpenQA.pdb
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\nunit.framework.dll
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\nunit.framework.pdb
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQA\bin\Debug\nunit.framework.xml

@@ -1,0 +1,8 @@
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\obj\Debug\OpenQAConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\bin\Debug\OpenQAConsoleApp.exe.config
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\bin\Debug\OpenQAConsoleApp.exe
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\bin\Debug\OpenQAConsoleApp.pdb
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\bin\Debug\WebDriver.dll
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\bin\Debug\WebDriver.xml
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\obj\Debug\OpenQAConsoleApp.exe
+C:\Users\Monicca2502\Source\Repos\OpenQA\OpenQAConsoleApp\obj\Debug\OpenQAConsoleApp.pdb
